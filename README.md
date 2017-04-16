@@ -14,6 +14,6 @@ Under the `include/` directory you can find the header files for the framework, 
 
 ## Notes
 
-1. The framework is currently incomplete, so the following is just planning.
+1. The framework is currently incomplete, so the information upon is just planning.
 2. When I'm creating games, I add the files to my project as part of the project (maybe with a few edits), not as dependencies.
 3. If you like this, you can directly download this repository and use the framework!
