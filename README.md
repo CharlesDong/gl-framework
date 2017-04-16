@@ -2,8 +2,6 @@
 
 An OpenGL framework set in C++ used by myself to create 2D/3D games.
 
-*Note: the framework is currently incomplete, so the following is just planning.*
-
 ## Introduction
 
 The framework can be divided into two parts: one is about OpenGL tools, and another is common utilities.
@@ -16,4 +14,6 @@ Under the `include/` directory you can find the header files for the framework, 
 
 ## Notes
 
-If you like this, you can directly download this repository and use the framework!
+1. The framework is currently incomplete, so the following is just planning.
+2. When I'm creating games, I add the files to my project as part of the project (maybe with a few edits), not as dependencies.
+3. If you like this, you can directly download this repository and use the framework!
