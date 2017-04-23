@@ -14,22 +14,34 @@ Under the `include/` directory you can find the header files for the framework, 
 
 ## Code Length
 
+Header files:
+
+File name | class/struct defined | functionality | lines | sloc
+----------|----------------------|---------------|-------|-----
+debug.h | - | Debug functions. | 13 | 10
+logger.h | Logger | Logging. | 49 | 41
+resourcemanager.h | ResourceManager | Manage the resources (shaders and textures). | 49 | 39
+shader.h | Shader | Simplified management to a shader. | 107 | 84
+str.h | - | Number-string/string-number conversion. | 18 | 14
+texture.h | Texture | Simplified management to a texture. | 32 | 25
+tm.h | Time | Time getting. | 16 | 13
+TOTAL | - | - | 284 | 226
+
+Source files:
+
 File name | lines | sloc
 ----------|-------|-----
-debug.h | 13 | 10
-logger.h | 49 | 41
-resourcemanager.h | 49 | 39
-shader.h | 107 | 84
-str.h | 18 | 14
-texture.h | 32 | 25
-tm.h | 16 | 13
 debug.cpp | 26 | 24
 logger.cpp | 39 | 35
 resourcemanager.cpp | 69 | 59
 shader.cpp | 85 | 75
 texture.cpp | 22 | 19
 tm.cpp | 21 | 17
-total | 546 | 455
+TOTAL | 262 | 229
+
+Total lines: 546
+Total sloc: 455
+
 
 ## Notes
 
