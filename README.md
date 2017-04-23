@@ -15,6 +15,7 @@ Under the `include/` directory you can find the header files for the framework, 
 ## Code Length
 
 File name | lines | sloc
+----------|-------|-----
 debug.h | 13 | 10
 logger.h | 49 | 41
 resourcemanager.h | 49 | 39
