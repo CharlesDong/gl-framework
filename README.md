@@ -40,8 +40,10 @@ tm.cpp | 21 | 17
 TOTAL | 262 | 229
 
 Total lines: 546
+
 Total sloc: 455
 
+Update time: 12:03, Apr 23, 2017
 
 ## Notes
 
