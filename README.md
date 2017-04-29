@@ -1,10 +1,10 @@
-# OpenGL Framework Set
+# libgl
 
-An OpenGL framework set in C++ used by myself to create 2D/3D games.
+An OpenGL library in C++ used by myself to create 2D/3D games.
 
 ## Introduction
 
-The framework can be divided into two parts: one is about OpenGL tools, and another is common utilities.
+The library can be divided into two parts: one is about OpenGL tools, and another is common utilities.
 
 Under the `include/` directory you can find the header files for the framework, and under the `src/` directory you can find the implementation details.
 
